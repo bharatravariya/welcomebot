@@ -13,8 +13,8 @@ from telegram.contrib.botan import Botan
 import python3pickledb as pickledb
 
 # Configuration
-BOTNAME = 'usernameofbot'
-TOKEN = 'TOKEN'
+BOTNAME = 'airdropnotibot'
+TOKEN = '538341409:AAGbNaSsS8RdXJDLE9X7oJC2FeLlqsimgw0'
 BOTAN_TOKEN = 'BOTANTOKEN'
 
 help_text = 'Welcomes everyone that enters a group chat that this bot is a ' \
